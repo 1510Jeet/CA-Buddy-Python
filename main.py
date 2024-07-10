@@ -23,7 +23,7 @@ from faster_whisper import WhisperModel
 os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
 
 #for LLM 
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "APIKEY"
  
 from langchain_groq import ChatGroq
  
